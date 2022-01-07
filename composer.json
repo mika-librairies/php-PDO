@@ -1,0 +1,18 @@
+{
+    "name": "mika/php-pdo",
+    "description": "Easy way to connect to Mysql using PDO",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mika\\PhpPdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mika",
+            "email": "besson.mikael04@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
